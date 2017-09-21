@@ -4,7 +4,7 @@ Hello,
 
 My name is Anh Le, I am an aspiring Web Developer. I applied to Steezy's Full Stack JavaScript Engineer position a few days back and I would like to supplement my application by making two small suggestions to your website.
 
-## suggestion
+## Suggestions
 
 On your features page, one of the image is covering a content text when the screen width is greater than 1700px.
 
@@ -16,10 +16,15 @@ I would suggests that you set the CSS so that the max-width in full-screen is 50
 
 The second suggestion is that you have a different "menu-window" image for phone screen displays.
 
-![alt tag](https://github.com/anhhtle/steezy/blob/master/suggestion2.jpg)
+![alt tag](https://github.com/anhhtle/steezy/blob/master/current2.jpg)
 
 
 ## Contact
 
+Overall, I think the site looks really good!
+
 email: anh.ht.le@gmail.com
 phone: (408) 649-1375
+
+Cheers,
+Anh
